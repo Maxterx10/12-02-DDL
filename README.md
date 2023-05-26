@@ -18,4 +18,4 @@ Query OK, 1 row affected, 2 warnings (0.00 sec)`
 
 ### Задание 2
 
-![alt text]()
+![alt text](https://github.com/Maxterx10/12-02-DDL/blob/main/12-02-2.png)
